@@ -23,7 +23,7 @@ function App() {
         ) : (
           <div className="text-center">
             <img
-              src="/walrus.png"
+              src="/orca_othello.png"
               alt="Walrus with Othello"
               className="mx-auto w-48 md:w-64 mb-6"
             />
